@@ -1,0 +1,23 @@
+Marcel Olankiewicz 81531
+
+Analiza możliwości wybranych chmur obliczeniowych
+
+1. Why?
+Wraz ze stałym rozwojem technologii, pozycja chmur obliczeniowych stale się umacnia. W obliczu dużych kosztów infrastruktur, dziedzina cloudowa nie jest tylko ciekawym i przyszłościowym rozwiązaniem, ale koniecznością
+we współczesnych czasach. Skalowalność i łatwy dostęp sprawia, że to świetne rozwiązanie dla przedsiębiorców każdego kalibru. Dogłębna analiza dostawców chmur obliczeniowych zdecydowanie ułatwi dobór rozwiązania
+do potrzeb spółki.
+
+2. What?
+Celem tego projektu będzie analiza możliwości i ograniczeń trzech najpopularniejszych rozwiązań chmurowych, do których należą:
+- Microsoft Azure
+- Amazon Web Services (AWS)
+- Google Cloud Platform.
+
+3. How?
+Wszystkie z wyżej podanych chmur obliczeniowych będą testowane pod kilkoma najważniejszymi aspektami, uwzględniając m.in.:
+- skalowalnośc
+- łatwość obsługi
+- dostępność
+- skalę kosztów
+- bezpieczeństwo
+- wydajność.
